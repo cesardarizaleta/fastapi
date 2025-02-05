@@ -1,11 +1,11 @@
 from typing import Union
-
 from fastapi import FastAPI
 
 app = FastAPI()
+app.title = "API"
 
 
-@app.get("/")
+@app.get("/HelloWorld", tags=['Test'])
 def read_root():
     return {"Hello": "World"}
 
