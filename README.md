@@ -11,7 +11,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 3. Ejecuta el siguiente comando para crear un entorno virtual llamado `.venv`:
 
 ```bash
-   python3 -m venv .venv
+python3 -m venv .venv
 ```
 
 ### Activar el entorno virtual
