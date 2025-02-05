@@ -6,7 +6,20 @@
         "tracks": [
             {"number": 1, "title": "English Lane", "duration": "2:37"},
             {"number": 2, "title": "Blue Slide Park", "duration": "2:24"},
-            {"number": 3, "title": "Party on Fifth Ave.", "duration": "2:53"}
+            {"number": 3, "title": "Party on Fifth Ave.", "duration": "2:53"},
+            {"number": 4, "title": "PA Nights", "duration": "3:04"},
+            {"number": 5, "title": "Frick Park Market", "duration": "3:17"},
+            {"number": 6, "title": "Smile Back", "duration": "2:45"},
+            {"number": 7, "title": "Under the Weather", "duration": "4:20"},
+            {"number": 8, "title": "Of the Soul", "duration": "3:26"},
+            {"number": 9, "title": "My Team", "duration": "2:22"},
+            {"number": 10, "title": "Up All Night", "duration": "3:29"},
+            {"number": 11, "title": "Loitering", "duration": "3:10"},
+            {"number": 12, "title": "Hole in My Pocket", "duration": "0:55"},
+            {"number": 13, "title": "Diamonds & Gold", "duration": "3:19"},
+            {"number": 14, "title": "Missed Calls", "duration": "2:58"},
+            {"number": 15, "title": "Man in the Hat", "duration": "3:17"},
+            {"number": 16, "title": "One Last Thing", "duration": "2:59"}
         ]
     },
     {
@@ -16,7 +29,98 @@
         "tracks": [
             {"number": 1, "title": "The Star Room", "duration": "4:35"},
             {"number": 2, "title": "Avian", "duration": "3:20"},
-            {"number": 3, "title": "I'm Not Real", "duration": "3:21"}
+            {"number": 3, "title": "I'm Not Real", "duration": "3:21"},
+            {"number": 4, "title": "S.D.S.", "duration": "3:03"},
+            {"number": 5, "title": "Bird Call", "duration": "2:17"},
+            {"number": 6, "title": "Matches", "duration": "2:57"},
+            {"number": 7, "title": "I Am Who Am (Killin' Time)", "duration": "4:07"},
+            {"number": 8, "title": "Objects in the Mirror", "duration": "4:19"},
+            {"number": 9, "title": "Red Dot Music", "duration": "6:29"},
+            {"number": 10, "title": "Gees", "duration": "3:27"},
+            {"number": 11, "title": "Watching Movies", "duration": "3:40"},
+            {"number": 12, "title": "Suplexes Inside of Complexes and Duplexes", "duration": "3:38"},
+            {"number": 13, "title": "Remember", "duration": "4:35"},
+            {"number": 14, "title": "Someone Like You", "duration": "2:19"},
+            {"number": 15, "title": "Aquarium", "duration": "4:22"}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "GO:OD AM",
+        "year": 2015,
+        "tracks": [
+            {"number": 1, "title": "Doors", "duration": "1:18"},
+            {"number": 2, "title": "Brand Name", "duration": "5:02"},
+            {"number": 3, "title": "Rush Hour", "duration": "3:21"},
+            {"number": 4, "title": "Two Matches", "duration": "4:14"},
+            {"number": 5, "title": "100 Grandkids", "duration": "4:40"},
+            {"number": 6, "title": "Time Flies", "duration": "2:53"},
+            {"number": 7, "title": "Weekend", "duration": "3:28"},
+            {"number": 8, "title": "Clubhouse", "duration": "3:00"},
+            {"number": 9, "title": "In the Bag", "duration": "4:34"},
+            {"number": 10, "title": "Break the Law", "duration": "3:15"},
+            {"number": 11, "title": "Perfect Circle / God Speed", "duration": "7:32"},
+            {"number": 12, "title": "When in Rome", "duration": "3:45"},
+            {"number": 13, "title": "ROS", "duration": "5:46"},
+            {"number": 14, "title": "Cut the Check", "duration": "2:47"},
+            {"number": 15, "title": "Ascension", "duration": "4:51"},
+            {"number": 16, "title": "Jump", "duration": "4:38"}
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Divine Feminine",
+        "year": 2016,
+        "tracks": [
+            {"number": 1, "title": "Congratulations", "duration": "4:16"},
+            {"number": 2, "title": "Dang!", "duration": "5:05"},
+            {"number": 3, "title": "Stay", "duration": "5:26"},
+            {"number": 4, "title": "Skin", "duration": "3:18"},
+            {"number": 5, "title": "Cinderella", "duration": "8:00"},
+            {"number": 6, "title": "Planet God Damn", "duration": "3:12"},
+            {"number": 7, "title": "Soulmate", "duration": "4:33"},
+            {"number": 8, "title": "We", "duration": "5:12"},
+            {"number": 9, "title": "My Favorite Part", "duration": "3:36"},
+            {"number": 10, "title": "God Is Fair, Sexy Nasty", "duration": "8:21"}
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Swimming",
+        "year": 2018,
+        "tracks": [
+            {"number": 1, "title": "Come Back to Earth", "duration": "2:41"},
+            {"number": 2, "title": "Hurt Feelings", "duration": "4:05"},
+            {"number": 3, "title": "What's the Use?", "duration": "4:48"},
+            {"number": 4, "title": "Perfecto", "duration": "3:35"},
+            {"number": 5, "title": "Self Care", "duration": "5:45"},
+            {"number": 6, "title": "Wings", "duration": "4:10"},
+            {"number": 7, "title": "Ladders", "duration": "4:47"},
+            {"number": 8, "title": "Small Worlds", "duration": "4:31"},
+            {"number": 9, "title": "Conversation Pt. 1", "duration": "3:30"},
+            {"number": 10, "title": "Dunno", "duration": "3:57"},
+            {"number": 11, "title": "Jet Fuel", "duration": "5:45"},
+            {"number": 12, "title": "2009", "duration": "5:47"},
+            {"number": 13, "title": "So It Goes", "duration": "5:12"}
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Circles",
+        "year": 2020,
+        "tracks": [
+            {"number": 1, "title": "Circles", "duration": "2:50"},
+            {"number": 2, "title": "Complicated", "duration": "3:52"},
+            {"number": 3, "title": "Blue World", "duration": "3:29"},
+            {"number": 4, "title": "Good News", "duration": "5:42"},
+            {"number": 5, "title": "I Can See", "duration": "3:40"},
+            {"number": 6, "title": "Everybody", "duration": "4:16"},
+            {"number": 7, "title": "Woods", "duration": "4:46"},
+            {"number": 8, "title": "Hand Me Downs", "duration": "4:58"},
+            {"number": 9, "title": "That's On Me", "duration": "3:37"},
+            {"number": 10, "title": "Hands", "duration": "3:19"},
+            {"number": 11, "title": "Surf", "duration": "5:30"},
+            {"number": 12, "title": "Once a Day", "duration": "2:40"}
         ]
     }
 ]
