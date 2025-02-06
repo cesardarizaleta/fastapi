@@ -6,12 +6,12 @@ app = FastAPI()
 app.title = "Mac Miller API"
 
 
-@app.get("/HelloWorld", tags=['Test'])
+@app.get("/helloworld", tags=['Test'])
 def read_root():
     return {"Hello": "World"}
 
 # Montar el router de álbumes
-app.include_router(albums_router, prefix="/albums", tags=["albums"])
+app.include_router(albums_router, prefix="/albums")
 
 # Ruta de inicio
 @app.get("/")
