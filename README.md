@@ -29,3 +29,9 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+### Inicia el servidor local
+
+```bash
+fastapi dev main.py
+```
